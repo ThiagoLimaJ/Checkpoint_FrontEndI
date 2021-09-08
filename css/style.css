@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Noto+Sans&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://www.redebrasilatual.com.br/wp-content/uploads/2021/01/S%C3%A3o-Paulo-capital.jpg");
+    background-size: cover;
+    color: white;
+}
+
+header {
+    font-family: 'Allison', cursive;
+    font-size: 30px;
+    background-color: rgba(94, 34, 21, 0.733);
+    text-align: center;
+    padding: 15px 0px 15px;
+}
+
+main {
+    font-family: 'Noto Sans', sans-serif;
+    padding: 0 15px 0 15px;
+}
+
+.texto {
+    background-color: rgba(94, 34, 21, 0.65);
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.video {
+    margin: 20px 15% 15px 15%;
+}
+
+#introducao {
+    margin: 15px 0 15px 0;
+}
+
+h2 {
+    margin: 10px 25% 15px 25%;
+    text-align: center;
+}
+
+#curiosidades {
+    margin: 10px 20% 15px 20%;
+}
+
+.botao {
+    position: fixed;
+}
+
+#youtube {
+    bottom: 80px;
+    right: 25px;
+}
+
+#instagram {
+    bottom: 15px;
+    right: 30px;
+}
